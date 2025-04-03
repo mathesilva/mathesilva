@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Mathesilva! 😁
+## Bem-vindo(a) ao perfil do Faias! 😁
 
  <div>
    <a href="https://github.com/mathesilva">
