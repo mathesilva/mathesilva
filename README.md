@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Faias! 😁
+## Hi 👋, I'm Faias! 😁
 
  <div>
    <a href="https://github.com/mathesilva">
@@ -20,7 +20,10 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Connect with me:
+📫 How to reach me faiastheus@icloud.com
+
+📄 Know about my experiences https://www.linkedin.com/in/matheus-faias-56ba59200/
  
 <div> 
   
