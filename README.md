@@ -5,7 +5,15 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathesilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathesilva&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-    
+
+ 
+ 
+ 
+   ### 💻Languages, Technologies and Tools that I know, use and study:
+
+   
+     
+     
 <div style="display: inline_block"><br>
  <p align="center">
   <a href="https://skillicons.dev">
