@@ -1,11 +1,11 @@
 ## Hi 👋, I'm Faias! 😁
 
- <div>
-   <a href="https://github.com/mathesilva">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathesilva&show_icons=true&theme=dark" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathesilva&layout=compact&theme=dark" height="150" alt="Linguagens mais usadas" />
+<div>
+  <a href="https://github.com/mathesilva">
+    <img height="180" src="https://github-readme-stats.shion.dev/api?username=mathesilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  </a>
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mathesilva&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
-
  
  
  
